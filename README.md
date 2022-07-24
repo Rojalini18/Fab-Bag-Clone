@@ -9,7 +9,7 @@ Fab Bag is India's largest beauty subscription service. Receive amazing sample/f
 
 ## Deployed Site
 
-[Fab Bag Clone](https://peppy-frangipane-9fee86.netlify.app/)
+[Fab-Bag Clone](https://peppy-frangipane-9fee86.netlify.app/)
 
 
 
